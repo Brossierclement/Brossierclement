@@ -27,8 +27,3 @@
 </div>
 
 ###
-
-<h2 align="left">Mes réseaux :</h2>
-
-###
-
