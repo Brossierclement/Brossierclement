@@ -45,4 +45,4 @@
 </div>
 
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3C!DOCTYPE+html%3E;%3Chtml+lang%3D%22fr%22%3E)](https://git.io/typing-svg)
+
