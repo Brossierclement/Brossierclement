@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">J'ai un diplôme d'intégrateur web, mes langages sont le <span style="color: F0DB4F">JavaScript</span> et <span style="color="61DBFB">React</span>.<br />
+<p align="left">J'ai un diplôme d'intégrateur web, mes langages sont le <span style="color: F0DB4F">JavaScript</span> et <span style="color: 61DBFB">React</span>.<br />
                 J'approfondis quotidiennement mes compétences à travers des projets personnels.<br />
                 Mes centres d'intérêts sont les jeux vidéo, la fantaisie.</p>
 
