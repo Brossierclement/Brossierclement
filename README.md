@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">J'ai un diplôme d'intégrateur web, mes langages sont le JavaScript et React. 
-                J'approfondis quotidiennement mes compétences à travers des projets personnels.
+<p align="left">J'ai un diplôme d'intégrateur web, mes langages sont le JavaScript et React.<br />
+                J'approfondis quotidiennement mes compétences à travers des projets personnels.<br />
                 Mes centres d'intérêts sont les jeux vidéo, la fantaisie.</p>
 
